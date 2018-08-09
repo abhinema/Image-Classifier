@@ -56,4 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ### Certificate
 
-https://github.com/abhinema/Image-Classifier/Udacity_Certificate.jpg
+https://github.com/abhinema/Image-Classifier/Udacity_Certificate.jpg?raw=true
