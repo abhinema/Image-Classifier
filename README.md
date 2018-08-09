@@ -55,4 +55,4 @@ python predict.py ./flowers/valid/1/image_06749.jpg ./image_classifier_model/che
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/abhinema/Image-Classifier/blob/master/LICENSE) file for details.
 
 ### Certificate
-[!Certificate]https://github.com/abhinema/Image-Classifier/blob/master/Udacity_Certificate.pdf
+![alt text]https://github.com/abhinema/Image-Classifier/blob/master/Udacity_Certificate.jpg
