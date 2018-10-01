@@ -10,13 +10,13 @@ To install dependencies in anaconda envirnment, please use below command:
 conda create --name <env> --file requirments.txt
 
 ## Running the tests
-###1. How to use train.py
+### 1. How to use train.py
 python train.py <Data Set Dir Absolute Path> --gpu (use --gpu for GPU) --epochs <Number> --arch <Architecture Name> --checkpoint <checkpoint.pth> 
 
 Example:
 python train.py /home/abhinema/Desktop/study/aipnd-project-master/flowers/ --gpu --epochs 1 --arch vgg19_bn --checkpoint checkpoint_vgg19_e1.pth 
 
-###2. predict.py
+### 2. predict.py
 
 python predict.py <Input Flower Name> <Classifier Name with Path> --gpu --category_names cat_to_name.json
 
